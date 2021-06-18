@@ -173,7 +173,6 @@ export default {
     };
   },
   created() {
-    this.getCodeShoping(1);
     this.initCode();
     this.height = document.documentElement.clientHeight;
   },
